@@ -1,0 +1,20 @@
+body
+{
+    background-color: powderblue;
+}
+label
+{
+    font-family:  'Climate Crisis', cursive;;
+    font-size: medium;
+}
+.btn
+{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    size: 50px;
+
+}
+h1{
+    font-family: 'Climate Crisis', cursive;
+}
